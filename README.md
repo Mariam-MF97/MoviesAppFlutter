@@ -1,6 +1,6 @@
 # movies_app
 
-A new Flutter application.
+Flutter application that display a list of latest movies.
 
 ## Getting Started
 
